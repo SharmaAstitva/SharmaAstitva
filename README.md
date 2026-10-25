@@ -19,15 +19,25 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech CSE (AI & ML)** at VIT Bhopal, graduating June 2026
+- 🎓 **B.Tech CSE (AI & ML)** graduate from VIT Bhopal
 - 💼 Aspiring **Technical Consultant** who loves turning business problems into working software
 - 🛠️ I build **full-stack apps**, **LLM-powered pipelines** and **Salesforce CRM** integrations
-- 🚀 **Co-Founder** @ STOCKD and **Ops & Tech** @ Systemeta.AI
+- 🚀 **Co-Founder** @ BSQR and **Ops & Tech** @ Systemeta.AI
 - 🗣️ Good at explaining tech to developers and business teams alike
 - ☕ **Fun fact:** I debug better after chai
 
----
+### 💻 My Daily Routine, in Code
 
+```python
+def daily_routine():
+    while True:
+        chai()     # step 1, non-negotiable
+        code()
+        debug()    # works better after chai
+        ship()
+```
+
+---
 ## 🛠️ Tech Stack
 
 <p align="center">
