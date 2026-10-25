@@ -19,20 +19,12 @@
 
 ## 🚀 About Me
 
-```python
-class Astitva:
-    def __init__(self):
-        self.education = "B.Tech CSE (AI & ML), VIT Bhopal"
-        self.role      = "Aspiring Technical Consultant"
-        self.builds    = ["Full-stack apps",
-                          "LLM pipelines",
-                          "Salesforce CRM"]
-        self.currently = ["Co-Founder @ STOCKD",
-                          "Ops & Tech @ Systemeta.AI"]
-        self.fun_fact  = "I debug better after chai ☕"
-
-me = Astitva()
-``````
+- 🎓 **B.Tech CSE (AI & ML)** at VIT Bhopal, graduating June 2026
+- 💼 Aspiring **Technical Consultant** who loves turning business problems into working software
+- 🛠️ I build **full-stack apps**, **LLM-powered pipelines** and **Salesforce CRM** integrations
+- 🚀 **Co-Founder** @ STOCKD and **Ops & Tech** @ Systemeta.AI
+- 🗣️ Good at explaining tech to developers and business teams alike
+- ☕ **Fun fact:** I debug better after chai
 
 ---
 
