@@ -1,6 +1,6 @@
 <!-- ===== Animated wave header ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:22d3ee&height=200&section=header&text=Hi%20👋,%20I'm%20Astitva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Technical%20Consultant%20|%20Full-Stack%20%26%20AI%20Developer&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e7490,100:22d3ee&height=200&section=header&text=Hi,%20I%27m%20Astitva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Technical%20Consultant%20%7C%20Full-Stack%20and%20AI%20Developer&descAlignY=58&descSize=16" alt="Hi, I'm Astitva" />
 </p>
 
 <!-- ===== Typing animation ===== -->
@@ -22,12 +22,14 @@
 ```python
 class Astitva:
     def __init__(self):
-        self.education  = "B.Tech CSE (AI & ML) @ VIT Bhopal, June 2026"
-        self.role       = "Aspiring Technical Consultant"
-        self.builds     = ["Full-stack web apps", "LLM automation pipelines", "Salesforce CRM integrations"]
-        self.currently  = ["Co-Founder @ STOCKD", "Operations & Tech @ Systemeta.AI"]
-        self.superpower = "Explaining tech to devs and business teams alike"
-        self.fun_fact   = "I debug better after chai ☕"
+        self.education = "B.Tech CSE (AI & ML), VIT Bhopal"
+        self.role      = "Aspiring Technical Consultant"
+        self.builds    = ["Full-stack apps",
+                          "LLM pipelines",
+                          "Salesforce CRM"]
+        self.currently = ["Co-Founder @ STOCKD",
+                          "Ops & Tech @ Systemeta.AI"]
+        self.fun_fact  = "I debug better after chai ☕"
 
 me = Astitva()
 ```
@@ -61,20 +63,10 @@ me = Astitva()
 
 - ☁️ **Salesforce Trailhead Agentblazer Champion** with 100+ badges
 - 🎖️ Superbadges in **Approval Process Management** and **Advanced Flow for Agentforce**
-- 🐞 Found 4–5 critical defects in a Salesforce analytics dashboard during my internship at CBOSIT Technologies
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SharmaAstitva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaAstitva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SharmaAstitva&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee" />
-</p>
+## 🐍 Contribution Snake
 
 <!-- Snake animation (needs .github/workflows/snake.yml) -->
 <p align="center">
