@@ -19,12 +19,12 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech CSE (AI & ML)** graduate from VIT Bhopal
-- 💼 Aspiring **Technical Consultant** who loves turning business problems into working software
-- 🛠️ I build **full-stack apps**, **LLM-powered pipelines** and **Salesforce CRM** integrations
-- 🚀 **Co-Founder** @ BSQR and **Ops & Tech** @ Systemeta.AI
-- 🗣️ Good at explaining tech to developers and business teams alike
-- ☕ **Fun fact:** I debug better after chai
+🎓 **B.Tech CSE (AI & ML)** graduate from VIT Bhopal\
+💼 Aspiring **Technical Consultant** who loves turning business problems into working software\
+🛠️ I build **full-stack apps**, **LLM-powered pipelines** and **Salesforce CRM** integrations\
+🚀 **Co-Founder** @ BSQR and **Ops & Tech** @ Systemeta.AI\
+🗣️ Good at explaining tech to developers and business teams alike\
+☕ **Fun fact:** I debug better after chai
 
 ### 💻 My Daily Routine, in Code
 
@@ -35,6 +35,8 @@ def daily_routine():
         code()
         debug()    # works better after chai
         ship()
+
+daily_routine()
 ```
 
 ---
